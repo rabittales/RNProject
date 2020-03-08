@@ -39,7 +39,7 @@ class NameForm extends React.Component {
 
   render() {
     return (
-      <Text>hello</Text>
+      <Text>hello Networking</Text>
     );
   }
 }
